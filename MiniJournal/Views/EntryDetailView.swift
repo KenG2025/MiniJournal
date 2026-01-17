@@ -68,5 +68,7 @@ struct EntryDetailView: View {
                 EntryFormView(entry: entry) // Edit
             }
         }
+        .foregroundColor(.indigo)
+
     }
 }
