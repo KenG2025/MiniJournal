@@ -5,9 +5,6 @@
 //  Created by Ken Gonzalez on 1/10/26.
 //
 //Load database
-import SwiftData
-//User Intergace
-import SwiftUI
 
 import SwiftUI
 import SwiftData
